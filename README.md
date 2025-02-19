@@ -1,4 +1,4 @@
-# OOP-COffee-Dispensing-Machine
+# OOP-Coffee-Dispensing-Machine
 
 This is a Python-based coffee-making simulation program. It models a coffee machine's operations, including managing resources, processing orders, handling payments, and preparing drinks. 
 
